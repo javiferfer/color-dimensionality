@@ -1,5 +1,9 @@
 # Files
-
+interface/ColorDimensionality/Library/*
+interface/ColorDimensionality/Logs/*
+interface/ColorDimensionality/Packages/*
+interface/ColorDimensionality/ProjectSettings/*
+interface/ColorDimensionality/UserSettings/*
 
 # Mac
 .DS_Store
