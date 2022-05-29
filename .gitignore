@@ -4,6 +4,7 @@ interface/ColorDimensionality/Logs/*
 interface/ColorDimensionality/Packages/*
 interface/ColorDimensionality/ProjectSettings/*
 interface/ColorDimensionality/UserSettings/*
+input/Participants.md
 
 # Mac
 .DS_Store
